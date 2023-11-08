@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **Zawaj app**
+- 🔭 I’m currently working on **Gemini Player App**
 
 - 🌱 I’m currently learning **Node JS**
 
