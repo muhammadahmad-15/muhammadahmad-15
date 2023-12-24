@@ -5,7 +5,11 @@
 
 ## Onthago
 
-**Description:** 
+**Description:** Skip The Line!
+
+Stop waiting in line while Onthago.
+
+Onthago lets you Order Ahead and customize your purchase, Skip The Line and enjoy Express Pickup so you never have to wait.
 
 **State Management:** Provider
 
