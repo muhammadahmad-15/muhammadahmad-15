@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Digital Signage App**
 
-- 🌱 I’m currently learning **Node JS**
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://muhammadahmad-aa603.web.app/](https://muhammadahmad-aa603.web.app/)
