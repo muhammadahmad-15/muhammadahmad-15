@@ -140,8 +140,8 @@ Enjoy elegance and premium features with etom
 
 - 🌱 I’m currently working on Android TV app which is a Digital Signage System
 
-- 👯 I’m looking to collaborate on **flutter apps**
+- 👯 I’m looking to collaborate on **Flutter Apps**
 
-- 💬 Ask me about **flutter,dart,java,frontend,android,iOS**
+- 💬 Ask me about **Flutter, Dart, Construct 3D**
 
 - 📫 How to reach me **imats.322@gmail.com**
