@@ -142,7 +142,7 @@ Enjoy elegance and premium features with etom
 
 
 
-- 🌱 I’m currently working on Android TV app which is a Digital Signage System
+- 🌱 I’m currently working on: 1) Android TV app which is a Digital Signage System 2) React native app for special children
 
 - 👯 I’m looking to collaborate on **Flutter Apps**
 
