@@ -146,6 +146,4 @@ Enjoy elegance and premium features with etom
 
 - 👯 I’m looking to collaborate on **Flutter Apps**
 
-- 💬 Ask me about **Flutter, Dart, Construct 3D**
-
 - 📫 How to reach me **imats.322@gmail.com**
