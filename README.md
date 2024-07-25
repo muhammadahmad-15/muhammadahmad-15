@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">Senior Flutter Developer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 # Projects
 
