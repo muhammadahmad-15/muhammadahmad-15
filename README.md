@@ -3,6 +3,20 @@
 
 # Projects
 
+
+## Gemini
+
+**Description:** Offering brands to captivate audiences
+
+Display marketing campaign on SMD Screens
+
+Developed for Android TVs and Windows Screens/
+
+**Flutter**
+
+
+----
+
 ## Onthago
 
 **Description:** Skip The Line!
