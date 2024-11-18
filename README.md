@@ -10,7 +10,7 @@
 
 Display marketing campaign on SMD Screens
 
-Developed for Android TVs and Windows Screens/
+Developed for Android TVs and Windows Screens
 
 **Flutter**
 
