@@ -124,14 +124,6 @@ Enjoy elegance and premium features with etom
 **State Management:** Provider
 
 
-<div style="display: flex; justify-content: center;">
-  <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.etomglobal.client&hl=en&gl=US">
-      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
-    </a>
-  </p>
-</div>
-
 ----
 
 
@@ -142,14 +134,6 @@ Enjoy elegance and premium features with etom
 
 **State Management:** Provider
 
-
-<div style="display: flex; justify-content: center;">
-  <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.etomglobal.partner&hl=en&gl=US">
-      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
-    </a>
-  </p>
-</div>
 
 ----
 
